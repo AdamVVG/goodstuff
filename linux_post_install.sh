@@ -35,6 +35,3 @@ echo \
 
 sudo apt-get update
 sudo apt-get -y install docker-ce docker-ce-cli containerd.io
-
-# Create Conda environment
-conda env create -f environment.yml
