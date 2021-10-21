@@ -9,4 +9,13 @@ dependencies:
   - matplotlib
   - seaborn
   - tensorflow-gpu
-
+  - opencv-python
+  - Pillow
+  - PyYAML
+  - requests
+  - scipy
+  - torch
+  - torchvision
+  - tqdm
+  - tensorboard
+  - thop
