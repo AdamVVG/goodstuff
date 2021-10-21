@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ~/miniconda3/etc/profile.d/conda.sh
+source /home/adam/miniconda3/etc/profile.d/conda.sh
 conda config --set env_prompt '({name}) '
 
 # Create conda environment
